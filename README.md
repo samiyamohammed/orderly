@@ -120,3 +120,6 @@ Built with focus on simplicity, performance, and real-world usability.
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
+📦 Download APK:
+👉 https://drive.google.com/file/d/1wZx_gPDOH_bG9TVEEVOaYiTU0BbaSI5b/view?usp=sharing
